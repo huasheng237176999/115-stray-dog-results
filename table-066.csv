@@ -1,2 +1,2 @@
 ﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
-68000,桃園市,90170,1543,17458,371,17458,371,0,0,1.0,1.0,0.3369272237196765,0.3369272237196765,0.0,125.0,125.0,可計分,False,相同
+68000,桃園市,90170,1543,17458,371,17458,371,0,0,1.0,1.0,0.3477088948787062,0.3504043126684636,-0.0026954177897574,129.0,130.0,可計分,False,本次方法較低

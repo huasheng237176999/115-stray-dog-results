@@ -1,2 +1,2 @@
 ﻿training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,A_captured_cases,B_captured_cases,scope_code,scope,national_fit,A_capture_top10,B_capture_top10,difference
-2488346.0,22503.0,727067.0,6802.0,726474.0,6801.0,593.0,1.0,3420.0625,3398.9843533065405,M,22縣市各取前10%後合併,False,0.5028764152330539,0.49977714355338043,0.0030992716796734987
+2488346.0,22503.0,727067.0,6802.0,726474.0,6801.0,593.0,1.0,3319.9896551724137,3306.2730639097745,M,22縣市各取前10%後合併,False,0.4881619842923708,0.48614513511392066,0.002016849178450131

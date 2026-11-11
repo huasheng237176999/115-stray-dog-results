@@ -1,2 +1,2 @@
 ﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
-10009,雲林縣,97577,944,25348,423,25348,423,0,0,1.0,1.0,0.5531914893617021,0.5508274231678487,0.0023640661938534,234.0,233.0,可計分,False,本次方法較高
+10009,雲林縣,97577,944,25348,423,25348,423,0,0,1.0,1.0,0.5460992907801419,0.5390070921985816,0.0070921985815602,231.0,228.0,可計分,False,本次方法較高

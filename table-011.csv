@@ -1,2 +1,2 @@
 ﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
-10004,新竹縣,84894,1078,35117,472,35117,472,0,0,1.0,1.0,0.6927966101694916,0.701271186440678,-0.0084745762711864,327.0,331.0,可計分,False,本次方法較低
+10004,新竹縣,84894,1078,35117,472,35117,472,0,0,1.0,1.0,0.690677966101695,0.701271186440678,-0.010593220338983,326.0,331.0,可計分,False,本次方法較低

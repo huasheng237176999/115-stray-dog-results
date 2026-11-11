@@ -1,2 +1,2 @@
 ﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
-10018,新竹市,6478,178,4014,195,4014,195,0,0,1.0,1.0,0.2256410256410256,0.2194268476621418,0.0062141779788838,44.0,42.78823529411765,可計分,False,本次方法較高
+10018,新竹市,6478,178,4014,195,4014,195,0,0,1.0,1.0,0.2153846153846154,0.2102564102564102,0.0051282051282051,42.0,41.0,可計分,False,本次方法較高

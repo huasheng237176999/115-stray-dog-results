@@ -1,2 +1,2 @@
 ﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
-10017,基隆市,13295,1630,99,4,99,4,0,0,1.0,1.0,0.7000000000000002,0.25,0.4500000000000002,2.8000000000000007,1.0,可計分,True,本次方法較高
+10017,基隆市,13295,1630,99,4,99,4,0,0,1.0,1.0,0.5,0.5,0.0,2.0,2.0,可計分,True,相同
