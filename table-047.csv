@@ -1,0 +1,2 @@
+﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
+10020,嘉義市,4816,564,529,23,529,23,0,0,1.0,1.0,0.217391304347826,0.1739130434782608,0.0434782608695652,5.0,4.0,可計分,False,本次方法較高

@@ -1,0 +1,2 @@
+﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
+10015,花蓮縣,289955,319,106108,44,106108,44,0,0,1.0,1.0,0.9090909090909092,0.9090909090909092,0.0,40.0,40.0,可計分,False,相同

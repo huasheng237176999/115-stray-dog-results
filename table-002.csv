@@ -1,0 +1,2 @@
+﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
+09007,連江縣,2815,0,593,1,0,0,593,1,0.0,0.0,,,,,,估計母體沒有通報，FR與主分數無法估計,True,無可比較測試通報

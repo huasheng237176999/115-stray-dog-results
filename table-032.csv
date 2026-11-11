@@ -1,0 +1,2 @@
+﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
+10014,臺東縣,238592,432,73832,146,73832,146,0,0,1.0,1.0,0.7808219178082192,0.7808219178082192,0.0,114.0,114.0,可計分,False,相同

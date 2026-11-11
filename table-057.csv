@@ -1,0 +1,2 @@
+﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
+65000,新北市,137603,2545,39043,1084,39043,1084,0,0,1.0,1.0,0.5581180811808119,0.5433974696889826,0.0147206114918292,605.0,589.0428571428572,可計分,False,本次方法較高

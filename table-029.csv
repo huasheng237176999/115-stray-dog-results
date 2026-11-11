@@ -1,0 +1,2 @@
+﻿scope_code,scope,training_grids,training_cases,test_grids,test_cases,comparable_grids,comparable_cases,excluded_test_grids,excluded_test_cases,coverage_grids,coverage_cases,A_capture_top10,B_capture_top10,difference,A_captured_cases,B_captured_cases,training_status,small_test_cases,interpretation
+10013,屏東縣,160712,696,75520,350,75520,350,0,0,1.0,1.0,0.7725,0.7739285714285714,-0.0014285714285714,270.375,270.875,可計分,False,本次方法較低
